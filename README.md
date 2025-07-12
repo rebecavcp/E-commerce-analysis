@@ -20,7 +20,9 @@ Create an interactive dashboard in Power BI
 
 **Data Cleaning & Transformation**
 
-Removed null values in CustomerID
+Removed null values in CustomerID and Description
+
+Create 2 datasets: 1) for RFM analysis and 2)for general analysis
 
 Excluded return transactions (InvoiceNo starting with "C")
 
