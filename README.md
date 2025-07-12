@@ -1,6 +1,6 @@
-# E-commerce-analysis
+# E-commerce data analysis & customer segmentation
 
-About the Project
+# About the Project
 Dataset: Kaggle – E-Commerce Data (Carrie1)
 
 Language: Python (Pandas, NumPy, Seaborn, Matplotlib)
